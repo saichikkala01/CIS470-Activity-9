@@ -4,7 +4,7 @@
 
 This is an integration testing of the calendar application. The program is written in JavaScript. It has the following modules.
 
-<img src="./img/Untitled.png" width="300">
+<img src="./img/MM_graph.jpg" width="300">
 
 ## Runner
 
@@ -177,7 +177,7 @@ If we consider that in the Calendar call graph with units replaced by numbers (n
 
 In the first step, draw function Integration graph (call graph) for the main function (no messages in the call graph).
 
-<img src="./img/new.png" width="300">
+<img src="./img/path.png" width="300">
 
 ## Requirement 3 (20 points)
 
@@ -202,8 +202,6 @@ Complete the following table:
 
 Submit the results in the form of a Zip file of the code and MarkDown or Word Document in myCourses.
 
-
-<img src="./img/MM.jpg">
-
+<img src="./img/GRAPH.jpg">
 
 ## Final Note: It is OK if your tests do now have full coverage in this activity.
